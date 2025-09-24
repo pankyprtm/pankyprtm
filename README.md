@@ -163,21 +163,7 @@
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/pankyprtm/Library-app" title="Library App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=Library-app&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/pankyprtm/Hypermart-app" title="Hypermart App"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=Hypermart-app&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/pankyprtm/Learn-Dart" title="Learn Dart"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=Learn-Dart&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/pankyprtm/Laravel-Websocket" title="Laravel Websocket"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=Laravel-Websocket&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/pankyprtm/DIDIMO-Web" title="DIDIMO Web"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=DIDIMO-Web&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/pankyprtm/Learn-IoT-with-the-ESP32-MicroController" title="Learn IoT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=Learn-IoT-with-the-ESP32-MicroController&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+
 <br/><br/><br/><br/><br/><br/>
 
 
