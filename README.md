@@ -165,8 +165,6 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 
 <br/><br/><br/><br/><br/><br/>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a href="https://github.com/pankyprtm/pycharm-python-project" title="pycharm-python-project">
