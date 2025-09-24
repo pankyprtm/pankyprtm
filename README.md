@@ -41,14 +41,16 @@
   <a href="https://codeigniter.com" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
   </a>
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a>
+ <a href="https://laravel.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+</a>
+
 
   <!-- Tools -->
-  <a href="https://script.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" alt="google appscript" width="40" height="40"/> 
-  </a>
+  <a href="https://script.google.com/" target="_blank">
+  <img src="https://www.gstatic.com/images/branding/product/1x/apps_script_512dp.png" alt="google appscript" width="40" height="40"/>
+</a>
+
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
