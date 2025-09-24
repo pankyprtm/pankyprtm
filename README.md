@@ -105,12 +105,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
   </a>
 
-  <!-- Google Apps Script -->
-  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" alt="google apps script" width="40" height="40"/> 
-  </a>
-
-  <!-- Octave -->
+   <!-- Octave -->
   <a href="https://www.gnu.org/software/octave/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octave" width="40" height="40"/> 
   </a>
