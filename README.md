@@ -18,11 +18,22 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/> </a>
-  <a href="https://script.google.com/" target="_blank"> <img src="https://seeklogo.com/images/G/google-apps-script-logo-681D1D6880-seeklogo.com.png" alt="google appscript" width="40" height="40"/> </a>
+  <!-- Laravel -->
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+</a>
+
+<!-- Google Apps Script -->
+<a href="https://script.google.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/google_apps_script/google_apps_script-icon.svg" alt="google appscript" width="40" height="40"/>
+</a>
+
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://developer.android.com/studio" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="android-studio" width="40" height="40"/> </a>
+ <!-- Android Studio -->
+<a href="https://developer.android.com/studio" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+</a>
   <a href="https://www.eclipse.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="eclipse" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/octave/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octave" width="40" height="40"/> </a>
