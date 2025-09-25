@@ -103,6 +103,9 @@
   <a align="right" href="https://github.com/pankyprtm/pycharm-python-project" title="Python Projects">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=pycharm-python-project&theme=react&border_color=61dafb&border_radius=10">
   </a>
+    <a align="right" href="https://github.com/pankyprtm/sistem-sop-qr-generator" title="Sop">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=sistem-sop-qr-generator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
