@@ -95,20 +95,22 @@
 
 <hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/pankyprtm/pankyprtm.github.io" title="Portfolio Website">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=pankyprtm.github.io&theme=react&border_color=61dafb&border_radius=10">
+<div align="center" style="width: 100%;">
+  <a href="https://github.com/pankyprtm/pankyprtm.github.io" title="Portfolio Website">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=pankyprtm.github.io&theme=react&border_color=61dafb&border_radius=10" alt="Portfolio Website"/>
   </a>
-  <a align="right" href="https://github.com/pankyprtm/pycharm-python-project" title="Python Projects">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=pycharm-python-project&theme=react&border_color=61dafb&border_radius=10">
+  
+  <a href="https://github.com/pankyprtm/pycharm-python-project" title="Python Projects">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=pycharm-python-project&theme=react&border_color=61dafb&border_radius=10" alt="Python Projects"/>
   </a>
-    <a align="right" href="https://github.com/pankyprtm/sistem-sop-qr-generator" title="Sop">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=sistem-sop-qr-generator&theme=react&border_color=61dafb&border_radius=10">
+  
+  <a href="https://github.com/pankyprtm/sistem-sop-qr-generator" title="SOP QR Generator">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pankyprtm&repo=sistem-sop-qr-generator&theme=react&border_color=61dafb&border_radius=10" alt="SOP QR Generator"/>
   </a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
+
 <h4 align="center">
   <a href="https://github.com/pankyprtm?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
