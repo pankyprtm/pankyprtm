@@ -47,10 +47,9 @@
 
 
   <!-- Tools -->
-  <a href="https://script.google.com/" target="_blank">
-  <img src="https://www.gstatic.com/images/branding/product/1x/apps_script_512dp.png" alt="google appscript" width="40" height="40"/>
+<a href="https://laragon.org/" target="_blank">
+  <img src="https://www.svgrepo.com/show/330813/laragon.svg" alt="laragon" width="40" height="40"/>
 </a>
-
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
